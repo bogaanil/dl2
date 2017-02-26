@@ -1,0 +1,8 @@
+# Total 100 questions 
+# Each question consists of six pairs of words, where the 
+
+	First pair is the stem pair (problem pair) 
+	Next five pairs(a-e) are the choice pairs. Each pair is on one line and the members of the pair are separated by a space. 
+	The correct choice is indicated by a letter from (a) to (e). 
+	Each set of six pairs is followed by a solution line. 
+	Each pair is followed by the parts of speech of the two words (n = noun, v = verb, a = adjective, r = adverb).
